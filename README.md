@@ -9,13 +9,16 @@ and I've been building websites for 2 years.
 - Basic SEO
 - Learning Python
 
+## Portfolio
+[amirmohammadshahbazi.ir](https://amirmohammadshahbazi.ir)
+
 ## Selected work
 - [irestooran.com](https://irestooran.com)
 - [maleki110.ir](https://maleki110.ir)
 - [ioscity.ir](https://ioscity.ir)
 - [digimonsef.com](https://digimonsef.com)
-- [irestooran.com](https://azmaitco.com)
-- [irestooran.com](https://etigallery.ir)
+- [etigallery.ir](https://etigallery.ir) – online clothing store
+- [azmaitco.com](https://azmaitco.com) – my team's company website
 
 ## Contact
 amirshahbazi2037@gmail.com
