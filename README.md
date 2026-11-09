@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Amir Mohammad 👋
 
-<!--
-**amirmohammadshahbazi/amirmohammadshahbazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web designer & developer from Tehran. I'm a software student
+and I've been building websites for 2 years.
 
-Here are some ideas to get you started:
+## What I do
+- Design and build websites with WordPress and Elementor
+- Build custom-coded websites
+- Basic SEO
+- Learning Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected work
+- [irestooran.com](https://irestooran.com)
+- [maleki110.ir](https://maleki110.ir)
+- [ioscity.ir](https://ioscity.ir)
+- [digimonsef.com](https://digimonsef.com)
+
+## Contact
+amirshahbazi2037@gmail.com
